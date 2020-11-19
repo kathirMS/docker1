@@ -40,7 +40,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.example.docker.DockerApplication</mainClass>
+							<mainClass>com.example.docker</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
