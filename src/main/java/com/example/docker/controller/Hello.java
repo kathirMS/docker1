@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Hello {
   @RequestMapping(value = "/hello", method = RequestMethod.GET)
   public String  getString() {
-      return " hai this is ubuntu machine ";
+      return " hai this is ubuntu machine i think this correct" +
+              "";
   }
 }
